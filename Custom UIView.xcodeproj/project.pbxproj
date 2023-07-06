@@ -13,6 +13,7 @@
 		24A6D2A02A326BF800231363 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24A6D29E2A326BF800231363 /* Main.storyboard */; };
 		24A6D2A22A326C0000231363 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24A6D2A12A326C0000231363 /* Assets.xcassets */; };
 		24A6D2A52A326C0000231363 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24A6D2A32A326C0000231363 /* LaunchScreen.storyboard */; };
+		24A6D2AD2A3272FC00231363 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24A6D2AC2A3272FC00231363 /* CardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		24A6D2A12A326C0000231363 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		24A6D2A42A326C0000231363 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		24A6D2A62A326C0000231363 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24A6D2AC2A3272FC00231363 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				24A6D2982A326BF800231363 /* AppDelegate.swift */,
 				24A6D29A2A326BF800231363 /* SceneDelegate.swift */,
+				24A6D2AC2A3272FC00231363 /* CardView.swift */,
 				24A6D29C2A326BF800231363 /* ViewController.swift */,
 				24A6D29E2A326BF800231363 /* Main.storyboard */,
 				24A6D2A12A326C0000231363 /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 				24A6D29D2A326BF800231363 /* ViewController.swift in Sources */,
 				24A6D2992A326BF800231363 /* AppDelegate.swift in Sources */,
 				24A6D29B2A326BF800231363 /* SceneDelegate.swift in Sources */,
+				24A6D2AD2A3272FC00231363 /* CardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
